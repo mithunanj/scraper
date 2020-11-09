@@ -1,0 +1,15 @@
+[1109/124316.454:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1109/125137.160:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/125137.161:ERROR:exception_snapshot_win.cc(99)] thread ID 7468 not found in process
+[1109/125137.165:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/125137.165:ERROR:exception_snapshot_win.cc(99)] thread ID 19868 not found in process
+[1109/125213.094:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/125213.103:ERROR:exception_snapshot_win.cc(99)] thread ID 28880 not found in process
+[1109/125213.103:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/125213.103:ERROR:exception_snapshot_win.cc(99)] thread ID 28884 not found in process
+[1109/142144.239:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/142144.240:ERROR:exception_snapshot_win.cc(99)] thread ID 29444 not found in process
+[1109/142144.239:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/142144.240:ERROR:exception_snapshot_win.cc(99)] thread ID 13840 not found in process
+[1109/142144.250:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1109/142144.250:ERROR:exception_snapshot_win.cc(99)] thread ID 28444 not found in process
